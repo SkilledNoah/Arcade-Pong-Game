@@ -1,2 +1,2 @@
 # Arcade-Pong-Game
-arcade pong game (OOP) made with tkinter GUI
+arcade pong game (OOP) made with graphical turtle module
